@@ -1,0 +1,23 @@
+{
+  "name": "continuations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "continuation.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha *spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/continuations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/continuations/issues"
+  },
+  "homepage": "https://github.com/stierma1/continuations#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
